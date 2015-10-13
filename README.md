@@ -1,2 +1,2 @@
 # pymining-book
-code for reading "learning data mining with Python"
+code and notes for reading "learning data mining with Python"
